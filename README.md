@@ -1,4 +1,5 @@
 # Delay Discounting in Artificial Organisms Animated by the Evolutionary Theory of Behavior Dynamics
+[![DOI](https://zenodo.org/badge/812382296.svg)](https://zenodo.org/doi/10.5281/zenodo.12173914)
 ## Authors
 Ryan Higginbotham, Jesse Dallery, J. J McDowell
 
